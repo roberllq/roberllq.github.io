@@ -94,7 +94,7 @@ section {
     margin-inline: auto;
 }
 iframe {
-    max-width: 650px;
+    max-width: 100%;
     height: 200px;
     margin: 15px;
 }
@@ -279,8 +279,8 @@ hr {
     margin-inline: auto;
 }
 
-.h1-title-conoce {
-    padding: 20px 0;
+.h2-title-conoce {
+    padding: 10px 0;
     font-size: 36px;
 }
 
@@ -320,4 +320,3 @@ h2 {
 .table-conoce tr td {
     border: 1px solid #00f;
 }
-
